@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $SCFILE -o cisfun
+gcc $SCFILE -o c is fun
