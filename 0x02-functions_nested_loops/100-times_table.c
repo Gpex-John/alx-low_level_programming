@@ -3,7 +3,6 @@
 
 
 /**
- *
  * print_times_table - prints the times table of the input,
  *
  * starting with 0.
