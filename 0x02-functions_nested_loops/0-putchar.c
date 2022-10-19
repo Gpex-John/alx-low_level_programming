@@ -1,9 +1,9 @@
 #include "main.h"
-#include <unistd.h>"
+
 /**
- ** main - print _putchar
+ ** main - print _putchar and a new line
  **
- ** Return: 0
+ ** Return: Always 0
  **/
 
 int main(void)
@@ -17,5 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 return (0);
-}_putchar(char c)
+}
